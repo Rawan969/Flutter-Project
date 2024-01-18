@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54110458393",
+    "project_id": "tastefood-70a2e",
+    "storage_bucket": "tastefood-70a2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54110458393:android:68c71b3529ed22ebc39088",
+        "android_client_info": {
+          "package_name": "com.example.flutterproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDModyrdLFtBmVe8W89rLNrBjtA5dBNl0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
